@@ -1,0 +1,2 @@
+include ':app', ':my_custom_library', ':dex_module'
+rootProject.name='hotloading_test'
